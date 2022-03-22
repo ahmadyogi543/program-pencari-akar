@@ -16,8 +16,8 @@ Beberapa metode yang digunakan pada program ini antara lain:
 
 Untuk fungsi yang dapat digunakan dalam program ini masih terbatas. Beberapa fungsi yang sudah ditambahkan pada program ini antara lain:
 
--   $\ f(x) = 2cos(x) - e^{-0.5x} $
--   $\ f(x) = 3sin(x) - x^2 + 1$
+-   f(x) = 2cos(x) - e^(-0.5x)
+-   f(x) = 3sin(x) - x^2 + 1
 
 Fungsi bisa di tambahkan pada _file_ `modules/functions.js` yang menyimpan berbagai _function_ untuk digunakan pada program ini.
 
